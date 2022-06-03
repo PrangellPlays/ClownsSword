@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "drd",
+    "ddd"
+  ],
+  "key": {
+    "r": {
+      "item": "clownsword:repairing_crystal"
+    },
+    "d": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "clownsword:deepslate_dark_crystal_ore"
+  }
+}

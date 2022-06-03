@@ -3,6 +3,10 @@
   "item.clownsword.blood_stained_crystal": "Blood Stained Crystal",
   "item.clownsword.repairing_crystal": "Repairing Crystal",
   "item.clownsword.piercer": "Piercer",
+  "item.clownsword.player_soul": "Player Soul",
+
+  "block.clownsword.dark_crystal_ore": "Dark Crystal Ore",
+  "block.clownsword.deepslate_dark_crystal_ore": "Deepslate Dark Crystal Ore",
 
   "itemGroup.clownsword.prangellcontent": "Prangells Content"
 }

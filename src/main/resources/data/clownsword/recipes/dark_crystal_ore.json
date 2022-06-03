@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "srs",
+    "sss"
+  ],
+  "key": {
+    "r": {
+      "item": "clownsword:repairing_crystal"
+    },
+    "s": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "clownsword:dark_crystal_ore"
+  }
+}

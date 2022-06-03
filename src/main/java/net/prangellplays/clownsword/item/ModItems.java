@@ -20,6 +20,9 @@ public class ModItems {
     public static final Item REPAIRING_CRYSTAL = registerItem("repairing_crystal",
             new Item(new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
 
+    public static final Item PLAYER_SOUL = registerItem("player_soul",
+            new Item(new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
+
     public static final Item PIERCER = registerItem("piercer",
             new ModLifestealSwordItem(ModToolMaterials.Crystal,5,   5f,  new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
 

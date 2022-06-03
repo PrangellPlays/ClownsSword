@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "clownsword:player_soul",
+          "functions": [
+            {
+              "function": "set_lore",
+              "replace": true,
+              "lore": [
+                [
+                  {"text":"§rKilled by §r§e"},
+                  {"selector":"@s"}
+                ]
+              ],
+              "entity": "killer_player"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "killed_by_player"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

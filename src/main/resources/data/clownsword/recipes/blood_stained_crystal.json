@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "rpr",
+    "rdr"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "d": {
+      "item": "clownsword:dark_crystal"
+    },
+    "p": {
+      "item": "clownsword:player_soul"
+    }
+  },
+  "result": {
+    "item": "clownsword:blood_stained_crystal"
+  }
+}

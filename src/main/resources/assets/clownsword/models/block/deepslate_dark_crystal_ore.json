@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "clownsword:block/deepslate_dark_crystal_ore"
+  }
+}

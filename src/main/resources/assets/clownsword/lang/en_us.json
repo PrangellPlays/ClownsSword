@@ -1,3 +1,8 @@
 {
-  "item.clownsword.dark_crystal": "Dark Crystal"
+  "item.clownsword.dark_crystal": "Dark Crystal",
+  "item.clownsword.blood_stained_crystal": "Blood Stained Crystal",
+  "item.clownsword.repairing_crystal": "Repairing Crystal",
+  "item.clownsword.piercer": "Piercer",
+
+  "itemGroup.clownsword.prangellcontent": "Prangells Content"
 }

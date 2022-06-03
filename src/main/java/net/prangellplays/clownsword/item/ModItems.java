@@ -7,6 +7,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
+import net.prangellplays.clownsword.item.custom.ModLifestealSwordItem;
 
 
 public class ModItems {
@@ -20,7 +21,7 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
 
     public static final Item PIERCER = registerItem("piercer",
-            new SwordItem(ModToolMaterials.Crystal,5,   5f,  new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
+            new ModLifestealSwordItem(ModToolMaterials.Crystal,5,   5f,  new FabricItemSettings().group(ModItemGroup.PRANGELLCONTENT)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register (Registry.ITEM, new Identifier(ClownSword.MOD_ID, name), item);

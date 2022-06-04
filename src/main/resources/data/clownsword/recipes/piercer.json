@@ -2,17 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     " dd",
-    "dcd",
-    "rd "
+    "drd",
+    "bd "
   ],
   "key": {
     "d": {
       "item": "clownsword:dark_crystal"
     },
-    "c": {
+    "r": {
       "item": "clownsword:repairing_crystal"
     },
-    "r": {
+    "b": {
       "item": "clownsword:blood_stained_crystal"
     }
   },

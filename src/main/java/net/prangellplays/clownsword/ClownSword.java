@@ -3,6 +3,7 @@ package net.prangellplays.clownsword;
 import net.fabricmc.api.ModInitializer;
 import net.prangellplays.clownsword.block.ModBlocks;
 import net.prangellplays.clownsword.item.ModItems;
+import net.prangellplays.clownsword.world.dimension.ModDimensions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

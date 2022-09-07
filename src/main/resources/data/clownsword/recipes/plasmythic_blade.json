@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " db",
+    "drd",
+    "bd "
+  ],
+  "key": {
+    "d": {
+      "item": "clownsword:dark_crystal"
+    },
+    "r": {
+      "item": "clownsword:repairing_crystal"
+    },
+    "b": {
+      "item": "clownsword:plasmythic_crystal"
+    }
+  },
+  "result": {
+    "item": "clownsword:plasmythic_blade"
+  }
+}

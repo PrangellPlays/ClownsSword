@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
 
-    Crystal(MiningLevels.NETHERITE, 15000, 12.0f, 6.0f, 25, () -> Ingredient.ofItems(ModItems.REPAIRING_CRYSTAL));
+    Crystal(MiningLevels.NETHERITE, -1, 12.0f, 6.0f, 25, () -> Ingredient.ofItems(ModItems.REPAIRING_CRYSTAL));
 
     private final int miningLevel;
     private final int itemDurability;

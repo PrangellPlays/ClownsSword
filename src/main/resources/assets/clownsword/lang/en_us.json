@@ -3,12 +3,15 @@
   "item.clownsword.blood_stained_crystal": "Blood Stained Crystal",
   "item.clownsword.repairing_crystal": "Repairing Crystal",
   "item.clownsword.piercer": "Piercer",
+  "item.clownsword.plasmythic_blade": "Plasmythic Blade",
+  "item.clownsword.plasmythic_crystal": "Plasmythic Crystal",
   "item.clownsword.player_soul": "Player Soul",
-  "item.clownsword.beans": "Can o' Beans",
 
   "block.clownsword.dark_crystal_ore": "Dark Crystal Ore",
   "block.clownsword.deepslate_dark_crystal_ore": "Deepslate Dark Crystal Ore",
   "block.clownsword.clown_crafting_table": "Clown Crafting Table",
 
-  "itemGroup.clownsword.prangellcontent": "Prangells Content"
+  "itemGroup.clownsword.prangellcontent": "Prangells Content",
+
+  "item.clownsword.creative_weapon": "Creative Weapon"
 }
